@@ -15,13 +15,13 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 
 # Key Domain and Technical Knowledge
 - **Domain** | Identity and Access Management
-- **IAM Packages** | CA Siteminder | GIGYA(SAP) | CA eTrust/CA IDM | Pingfederate | CA Directory(LDAP) | CyberArk | Auth0 | Okta | OpenAM | Forgerock - OpenAM | OpenIG
-- **SDKs** | PingFederate | CA Siteminder | Auth0 Scripting | ForgeRock
-- **IOT** | Mongoose-OS | Espurino | Micropython | Raspberry Pi | ESP32 | ESP8266
-- **SDKs** | PingFederate | CA Siteminder
-- **Big Data Technologies** | Hadoop | MapR | Apache Hama
-- **Development Languages** | Java | C++ | .NET
-- **Others** | SAML | SSO | C# | Design Patterns | Web Services | Spring AOP | Spring Security | Web services | Restful Services (JSON) | MongoDB | Ansible
+- **IAM Packages** | CA Siteminder, GIGYA(SAP), CA eTrust/CA IDM, Pingfederate, CA Directory(LDAP), CyberArk, Auth0, Okta, OpenAM, Forgerock - OpenAM, OpenIG
+- **SDKs** | PingFederate, CA Siteminder, Auth0 Scripting, ForgeRock
+- **IOT** | Mongoose-OS, Espurino, Micropython, Raspberry Pi, ESP32, ESP8266
+- **SDKs** | PingFederate, CA Siteminder
+- **Big Data Technologies** | Hadoop, MapR, Apache Hama
+- **Development Languages** | Java, C++, .NET
+- **Others** | SAML, SSO, C#, Design Patterns, Web Services, Spring AOP, Spring Security, Web services, Restful Services (JSON), MongoDB, Ansible
 
 # Academic Qualification
 - **Master of Technology** in Software Systems from BITS, Pilani, Rajasthan, INDIA.
