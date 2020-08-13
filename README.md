@@ -235,15 +235,15 @@ the support he provided demonstrating how the integration worked.
   
 ## Contract | Spring Security/SAML Architect needed towards PeopleSoft Integration with SAML2.0   
 **Client Ratings** | 5.00/5.00   
-**Client Feedback** | PeopleSoft doesn't support SAML2.0 Out of the BOX, and it was Harjinder's thought leadership only using which he devised a great + simple approach which we could turn Peoplesoft as SAML2.0 Compliant, He is really quick at learning product documentation and creates new /AM Capabilities + Customizations. Harjinder you Rock!!!   
+**Client Feedback** | PeopleSoft doesn't support SAML2.0 Out of the BOX, and it was Harjinder's thought leadership only using which he devised a great + simple approach which we could turn Peoplesoft as SAML2.0 Compliant, He is really quick at learning product documentation and creates new IAM Capabilities + Customizations. Harjinder you Rock!!!   
   
 ## Contract | IoT - Authentication/Authorization using Okta   
 **Client Ratings** | 5.00/5.00   
-**Client Feedback** | Harjinder, with his unwavering confidence, made me assured of the best solutions to typical problems like bring IOT and Identity and Access Management together in an elegant manner. His Identity And Access Management expertise is unmatchable. Harjinder's clear communication make him a great team member. / will continue to hire him for any projects in which I need his skills.   
+**Client Feedback** | Harjinder, with his unwavering confidence, made me assured of the best solutions to typical problems like bring IOT and Identity and Access Management together in an elegant manner. His Identity And Access Management expertise is unmatchable. Harjinder's clear communication make him a great team member. I will continue to hire him for any projects in which I need his skills.   
   
 ## Contract | Autho and Django App Implementation   
 **Client Ratings** | 5.00/5.00   
-**Client Feedback** | Harjinder is very knowledgeable Architect in all aspects of Identity and Access Managment and Autho. He was very instrumental and quick in developing custom modules where Autho(008) was not capable of meeting specific requirements for SSO over OAuth/OIDC/SAML, His expertise in /DAM Domain along with his Programming Skills(Java, C++) makes him stand-out in the crowd. He is very professional with clear/crisp communication. I will definitely hire him again when we move to production of the second version of our app.   
+**Client Feedback** | Harjinder is very knowledgeable Architect in all aspects of Identity and Access Managment and Autho. He was very instrumental and quick in developing custom modules where Autho(008) was not capable of meeting specific requirements for SSO over OAuth/OIDC/SAML, His expertise in IDAM Domain along with his Programming Skills(Java, C++) makes him stand-out in the crowd. He is very professional with clear/crisp communication. I will definitely hire him again when we move to production of the second version of our app.   
   
 ## Contract | Sign SAML assertion using OpenSAML library implementing SSO   
 **Client Ratings** | 5.00/5.00   
