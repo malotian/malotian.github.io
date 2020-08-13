@@ -21,6 +21,7 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 - **Big Data Technologies** | Hadoop, MapR, Apache Hama  
 - **Development Languages** | Java, C++, .NET  
 - **Others** | SAML, SSO, C#, Design Patterns, Web Services, Spring AOP, Spring Security, Web services, Restful Services (JSON), MongoDB, Ansible  
+-
 # Academic Qualification
 - **Master of Technology** in Software Systems from BITS, Pilani, Rajasthan, INDIA.
 - **Bachelor of Technology** in Computer Science (I.T.) from MIMIT, (A Govt. Undertaking Affiliated to Punjab Technical University, Jalandhar) Malout, Punjab, INDIA.
