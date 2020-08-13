@@ -192,7 +192,7 @@ the support he provided demonstrating how the integration worked.
 **Client Feedback** | Harjinder successfully implemented Fission on AWS EKS. His resourcefulness enabled him to accomplish this job on time and met our expectations. We will work with Harjinder again.   
   
 ## Contract | Setting up IDP-Initiated SAML2 Fed-SSO with gluu or something similar   
-**Client Ratings** | 5.00/5.00 
+**Client Ratings** | 5.00/5.00  
 **Client Feedback** |   
   
 ## Contract | Ping Federate expert to resolve a very urgent issue.   
