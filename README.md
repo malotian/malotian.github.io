@@ -43,11 +43,14 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 - Developed a Customized Thinkific Solution (Jwt) for SSO Integration with Auth0 (using Rules)
 - Developed a Customized Kibana Solution (Jwt) for SSO Integration with GSuite, Okta (Provisioning using Kibana Rules)
 
-# International Publications
-- Publication Title | FACTORS AFFECTING ACCURACY OF BINARIZATION FOR DOCUMENT IMAGES 
-- Publication Date | NOV 2013, Publisher | ZENITH International Journal of Multidisciplinary Research
-- Publication Title | IMPORTANCE OF POST PROCESSING FOR IMPROVED BINARIZATION OF TEXT DOCUMENTS
-- Publication Date | APR 2013, Publisher | International Journal of Research in Engineering and Technology
+# International Publications/Research Papers
+## Publication Title | FACTORS AFFECTING ACCURACY OF BINARIZATION FOR DOCUMENT IMAGES  
+**Publisher** | ZENITH International Journal of Multidisciplinary Research
+**Publication Date** | NOV 2013  
+
+## Publication Title | IMPORTANCE OF POST PROCESSING FOR IMPROVED BINARIZATION OF TEXT DOCUMENTS  
+**Publisher** | International Journal of Research in Engineering and Technology
+**Publication Date** | APR 2013  
 
 # Projects Undertaken  
 ## Project Name | IAM Professional Services  
