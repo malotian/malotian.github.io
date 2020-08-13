@@ -42,7 +42,8 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 - Developed a Customized Salesforce Provisioning Solution (Apex Code) for SAML SSO Integration with Auth0 (using Rules)
 - Developed a Customized Thinkific Solution (Jwt) for SSO Integration with Auth0 (using Rules)
 - Developed a Customized Kibana Solution (Jwt) for SSO Integration with GSuite, Okta (Provisioning using Kibana Rules)
-- International Publications
+
+# International Publications
 - Publication Title | FACTORS AFFECTING ACCURACY OF BINARIZATION FOR DOCUMENT IMAGES 
 - Publication Date | NOV 2013, Publisher | ZENITH International Journal of Multidisciplinary Research
 - Publication Title | IMPORTANCE OF POST PROCESSING FOR IMPROVED BINARIZATION OF TEXT DOCUMENTS
