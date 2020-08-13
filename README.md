@@ -47,11 +47,11 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 
 # International Publications/Research Papers
 ## Publication Title | FACTORS AFFECTING ACCURACY OF BINARIZATION FOR DOCUMENT IMAGES  
-**Publisher** | ZENITH International Journal of Multidisciplinary Research
+**Publisher** | ZENITH International Journal of Multidisciplinary Research  
 **Publication Date** | NOV 2013  
 
 ## Publication Title | IMPORTANCE OF POST PROCESSING FOR IMPROVED BINARIZATION OF TEXT DOCUMENTS  
-**Publisher** | International Journal of Research in Engineering and Technology
+**Publisher** | International Journal of Research in Engineering and Technology  
 **Publication Date** | APR 2013  
 
 # Projects Undertaken  
