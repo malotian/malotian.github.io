@@ -1,3 +1,4 @@
+
 Harjinder Singh Dhanjal
 +14169368185, malotian@gmail.com
 https://www.linkedin.com/in/harjinder-singh-dhanjal/
@@ -11,7 +12,7 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 - Programmer by Heart, Hands on experience in Java, C++, UNIX.
 - Able to learn and adapt to new technologies quickly
 - Active Contributor to OpenSource IAM Product - GLUU (for SAML/Federation Components)
-- Developed 3 features into CA Siteminder (being a member of CA Siteminder’s Core Engineering team for 3 Years, from 2008 to 2011 )
+- Developed 3 features into CA Siteminder (being a member of CA Siteminder’s Core Engineering team for 3 Years)
 # Key Domain and Technical Knowledge
 - **Domain** | Identity and Access Management
 - **IAM Packages** | CA Siteminder, GIGYA(SAP), CA eTrust/CA IDM, Pingfederate, CA Directory(LDAP), CyberArk, Auth0, Okta, OpenAM, Forgerock - OpenAM, OpenIG
