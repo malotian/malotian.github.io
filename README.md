@@ -13,7 +13,7 @@ https://www.linkedin.com/in/harjinder-singh-dhanjal/
 - Active Contributor to OpenSource IAM Product - GLUU (for SAML/Federation Components)
 - Developed 3 features into CA Siteminder (being a member of CA Siteminder’s Core Engineering team for 3 Years, from 2008 to 2011 )  
 
-# Key Domain and Technical Knowledge  
+# Key Domain and Technical Knowledge
 - **Domain** | Identity and Access Management  
 - **IAM Packages** | CA Siteminder, GIGYA(SAP), CA eTrust/CA IDM, Pingfederate, CA Directory(LDAP), CyberArk, Auth0, Okta, OpenAM, Forgerock - OpenAM, OpenIG  
 - **SDKs** | PingFederate, CA Siteminder, Auth0 Scripting, ForgeRock  
