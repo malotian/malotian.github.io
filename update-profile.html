@@ -33,7 +33,7 @@
                        var paramName = urlQS[i].split('=');
                        if (paramName[0] == key) {
                            //replace the special char like "+","&" etc from value
-                           var value = paramName[1].replace('%20', ' ').replace('%26', '&').replace('+', ' ');
+                           var value = paramName[1];
                            return value;
                        }
                    }
@@ -42,7 +42,7 @@
                {
                 var session_token = getParameterValues('session_token');
                 var state = getParameterValues('state');
-               window.location.href = 'https://malotian-lab.auth0.com/continue?session_token=' + getParameterValues('session_token') + '&full_name='+document.getElementById("full_name").value ;
+               window.location.href = 'https://malotian-lab.auth0.com/continue?state=' + getParameterValues('state') + '&session_token=' + getParameterValues('session_token') + '&full_name='+document.getElementById("full_name").value ;
                }
             </script>
          </div>
