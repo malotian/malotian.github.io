@@ -42,7 +42,7 @@
                {
                 var session_token = getParameterValues('session_token');
                 var state = getParameterValues('state');
-               window.location.href = 'https://malotian-lab.auth0.com/continue?session_token=' + getParameterValues('session_token') + state=' + getParameterValues('state') + '&full_name='+document.getElementById("full_name").value ;
+               window.location.href = 'https://malotian-lab.auth0.com/continue?session_token=' + getParameterValues('session_token') + '&state=' + getParameterValues('state') + '&full_name='+document.getElementById("full_name").value ;
                }
             </script>
          </div>
