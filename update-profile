@@ -1,0 +1,38 @@
+
+<html lang="en">
+   <head>
+      <title>SAML Resolve</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+      <style>
+         .container {
+         height: 200px;
+         position: relative;
+         }
+         .center {
+         margin: 0;
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         -ms-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <div class="center">
+            <input type="text" style="text-align:center;" class="form-control" placeholder="enter fullname, hit enter" name="full_name" onkeydown="if (event.keyCode == 13) { redirectPlz(); return false;}"/>
+            <script>
+               function redirectPlz()
+               {
+               	window.location.href = 'https://malotian-lab.auth0.com/continue';
+               }
+            </script>
+         </div>
+      </div>
+   </body>
+</html>
