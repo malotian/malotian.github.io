@@ -40,7 +40,7 @@
                }
                function redirectPlz()
                {
-                var session_token = getParameterValues('session_tokensession_token');
+                var session_token = getParameterValues('session_token');
                 var state = getParameterValues('state');
                window.location.href = 'https://malotian-lab.auth0.com/continue?state=' + getParameterValues('state') + '&full_name='+document.getElementById("full_name").value ;
                }
