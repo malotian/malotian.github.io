@@ -1,5 +1,5 @@
 Harjinder Singh Dhanjal  
-+14169368185, malotian@gmail.com  
++14375395511, malotian@gmail.com  
 https://www.linkedin.com/in/harjinder-singh-dhanjal/  
 
 # Profile Summary
